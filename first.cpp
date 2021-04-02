@@ -1,6 +1,7 @@
 #include<iostream>
 #include<bits/stdc++.h>
 
+// Namespace is used for predefined identifier used
 using namespace std;
 int sum(int n)
 {
